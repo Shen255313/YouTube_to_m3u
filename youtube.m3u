@@ -12,4 +12,7 @@
 
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="", 24 News Malayalam
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://raw.githubusercontent.com/Shen255313/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="台灣地震監視" tvg-logo="https://i.ytimg.com/vi/Owke6Quk7T0/sddefault.jpg" tvg-id="", 台灣地震監視(地震速報、強震即時警報)
+https://raw.githubusercontent.com/Shen255313/YouTube_to_m3u/main/assets/moose_na.m3u
